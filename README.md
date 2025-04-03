@@ -1,8 +1,9 @@
-Mechatronics Engineering,
+Mechatronics,
 Blockchain Solidity/Javascript dev.,
+Cloud computing,
 Web3 Engineer,
-PERPs/Futures Trader,
-Macro-Economics expert,
-Article/Content writer: medium.com/@xtianogu,
-Creator of Frysk Protocol: Frysk.xyz,
-Artist.
+PERPs Trader,
+Macro enthusiast,
+Technical Content Writer: medium.com/@xtianogu,
+Creator of Frysk Protocol,
+Founder/CoFounder: @ShenOnApe @BeraRumble
