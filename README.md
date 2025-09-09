@@ -6,4 +6,4 @@ PERPs Trader,
 Macro enthusiast,
 Technical Content Writer: medium.com/@xtianogu,
 Creator of Frysk Protocol,
-Founder/CoFounder: @ShenOnApe @BeraRumble
+Founder/CoFounder: @ShenOnApe @PlayRumble
